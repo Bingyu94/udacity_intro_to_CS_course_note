@@ -2,17 +2,17 @@
 
 ## course1-unit1：
 
-[1_variables](c1_unit1/1_variables.py)：初次尝试变量
+[1_variables](c1/1_variables.py)：初次尝试变量
 
-[2_variable](c1_unit1/2_variable.py)：变量可以变
+[2_variable](c1/2_variable.py)：变量可以变
 
-[3_string](c1_unit1/3_string.py)：string
+[3_string](c1/3_string.py)：string
 
-[4_Udacity](c1_unit1/4_Udacity.py)：string操作，相连、切片
+[4_Udacity](c1/4_Udacity.py)：string操作，相连、切片
 
-[5_start_link](c1_unit1/5_start_link.py)：使用find函数
+[5_start_link](c1/5_start_link.py)：使用find函数
 
-[6_url](c1_unit1/6_url.py)：提取url
+[6_url](c1/6_url.py)：提取url
 
 ## course3-字符串练习
 
